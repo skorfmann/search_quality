@@ -1,0 +1,12 @@
+P Ford      Car Review
+P Review Car
+P Review  Ford
+Q Ford
+P Toyota Car
+Q Car
+P Honda Car
+P Car
+Q Review
+Q Ford     Review
+Q Ford Car
+Q cooking     French

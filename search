@@ -1,0 +1,9 @@
+#! /usr/bin/env ruby
+
+require_relative 'lib/search'
+
+search = Search.new
+search.from_file(ARGV[0])
+search.perform
+
+puts search
